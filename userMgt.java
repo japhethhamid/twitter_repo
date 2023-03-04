@@ -2,6 +2,6 @@ kakus
 japheth
 hamid
 dorcas
-nafisata
+nafisat
 binjin
 ema
